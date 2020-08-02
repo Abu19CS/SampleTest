@@ -379,7 +379,7 @@ form.sign-in-form {
   }
 
   .image {
-    display: none;
+    display: flow-root;
   }
   .panel .content {
     padding: 0.5rem 1rem;
