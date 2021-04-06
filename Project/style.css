@@ -5,6 +5,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+html{
+    background-color: rgb(31, 32, 32);
+}
 
 body,
 input {
